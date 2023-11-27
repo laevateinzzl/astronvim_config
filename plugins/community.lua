@@ -24,7 +24,6 @@ return {
   { import = "astrocommunity.editing-support.multicursors-nvim" },
   { import = "astrocommunity.editing-support.todo-comments-nvim" },
   { import = "astrocommunity.motion.hop-nvim" },
-  { import = "astrocommunity.motion.nvim-surround" },
   { import = "astrocommunity.lsp.lsp-signature-nvim" },
   { import = "astrocommunity.project.nvim-spectre" },
   { import = "astrocommunity.project.project-nvim" },
