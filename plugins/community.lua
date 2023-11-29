@@ -20,11 +20,24 @@ return {
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.markdown" },
+  --
+  { import = "astrocommunity.lsp.lsp-signature-nvim" },
   -- other
   { import = "astrocommunity.editing-support.multicursors-nvim" },
   { import = "astrocommunity.editing-support.todo-comments-nvim" },
+  --
   { import = "astrocommunity.motion.hop-nvim" },
-  { import = "astrocommunity.lsp.lsp-signature-nvim" },
+  --
   { import = "astrocommunity.project.nvim-spectre" },
   { import = "astrocommunity.project.project-nvim" },
+  --
+  { import = "astrocommunity.diagnostics.trouble-nvim" },
+  -- debug
+  { import = "astrocommunity.debugging.nvim-dap-virtual-text" },
+  { import = "astrocommunity.debugging.nvim-dap-repl-highlights" },
+  --
+  { import = "astrocommunity.git.diffview-nvim" },
+  --
+  -- { import = "astrocommunity.scrolling.cinnamon-nvim" },
+  { import = "astrocommunity.scrolling.neoscroll-nvim" },
 }
