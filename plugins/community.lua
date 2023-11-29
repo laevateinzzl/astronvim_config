@@ -40,4 +40,6 @@ return {
   --
   -- { import = "astrocommunity.scrolling.cinnamon-nvim" },
   { import = "astrocommunity.scrolling.neoscroll-nvim" },
+  --
+  { import = "astrocommunity.search.nvim-hlslens" },
 }
