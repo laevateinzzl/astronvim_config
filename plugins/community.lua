@@ -6,6 +6,9 @@ return {
 
   --ui
   { import = "astrocommunity.colorscheme.everforest" },
+  { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.colorscheme.nordic-nvim" },
+  { import = "astrocommunity.colorscheme.kanagawa-nvim" },
   -- lsp
   { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.pack.go" },
